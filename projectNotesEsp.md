@@ -1,4 +1,4 @@
-# Izarbide - Notas de Arquitectura y Diseño
+# Populus - Notas de Arquitectura y Diseño
 
 ## Objetivo
 
@@ -417,7 +417,7 @@ Detection Service
        ↓
 PostgreSQL
        ↓
-Izarbide API
+Populus API
        ↓
 Frontend
 ```
